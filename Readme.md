@@ -4,22 +4,19 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS%2017+-blue.svg)](https://developer.apple.com/ios/)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM-green.svg)](#technical-architecture)
 
-A feature-rich, production-grade iOS application mimicking the **Airbnb** experience. This project demonstrates high proficiency in **SwiftUI**, **MVVM architecture**, and modern development workflows, specifically tailored for robust performance and a seamless user experience.
-
----
 
 ## 📸 Preview
 
-> [!TIP]
-> Add your screenshots or GIFs below to showcase your UI/UX skills. Replace the placeholders with your actual image links.
+> [!NOTE]
+> Added the screenshots  below to showcase UI/UX skills.
 
 | Explore Screen | Destination Search | Listing Details |
 | :---: | :---: | :---: |
-| ![Explore](https://via.placeholder.com/200x400?text=Explore+Screen) | ![Search](https://via.placeholder.com/200x400?text=Search+Flow) | ![Details](https://via.placeholder.com/200x400?text=Listing+Details) |
+| <img src="https://github.com/user-attachments/assets/2397b9cb-1e24-485c-8e35-c53081a515fc" width="250"> | <img src="https://github.com/user-attachments/assets/37b32ac9-8f8f-42a2-9fee-2db4b98f9fc8" width="250"> | <img src="https://github.com/user-attachments/assets/c692e97d-44a0-491e-9bbb-67690bb85cba" width="250"> |
 
 | Profile Section | Wishlist | Login/Auth |
 | :---: | :---: | :---: |
-| ![Profile](https://via.placeholder.com/200x400?text=Profile+View) | ![Wishlist](https://via.placeholder.com/200x400?text=Wishlist+Page) | ![Login](https://via.placeholder.com/200x400?text=Auth+Flow) |
+| <img src="https://github.com/user-attachments/assets/58a415ea-08aa-43ac-86fb-e30da1534aa3" width="250"> | ![Wishlist](https://via.placeholder.com/200x400?text=Wishlist+Page) | ![Login](https://via.placeholder.com/200x400?text=Auth+Flow) |
 
 ---
 
