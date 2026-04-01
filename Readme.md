@@ -14,8 +14,8 @@
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/2397b9cb-1e24-485c-8e35-c53081a515fc" width="250"> | <img src="https://github.com/user-attachments/assets/37b32ac9-8f8f-42a2-9fee-2db4b98f9fc8" width="250"> | <img src="https://github.com/user-attachments/assets/c692e97d-44a0-491e-9bbb-67690bb85cba" width="250"> |
 
-| Profile Section | Wishlist | Login/Auth |
-| :---: | :---: | :---: |
+| Profile Section |
+| :---: |
 | <img src="https://github.com/user-attachments/assets/58a415ea-08aa-43ac-86fb-e30da1534aa3" width="250"> | ![Wishlist](https://via.placeholder.com/200x400?text=Wishlist+Page) | ![Login](https://via.placeholder.com/200x400?text=Auth+Flow) |
 
 ---
